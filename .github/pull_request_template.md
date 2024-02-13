@@ -1,7 +1,7 @@
 <!--
 INSTRUCTIONS:
 
-1. Please complete all comments detailing an ACTION
+1. Please complete all sections detailing an ACTION
 2. All tasks must be checked off before merging
 -->
 
@@ -45,6 +45,12 @@ ACTION: Summarise your Pull Request
 - [ ] This PR relates to one or more issues, detailed below
 
 <!--
+ACTION: Detail any issues this PR relates to, and then check the box.
+
+NOTE: PRs without issues will not be merged.
+-->
+
+<!--
 We like to follow [Github's guidance on linking issues to pull requests](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue).
 
 For example having the text: "closes #1234" would connect the current pull
@@ -59,7 +65,9 @@ Be careful not to close parent tracking issues that this PR only completes PART 
 
 ## Screenshots, example outputs/behaviour etc.
 
-<!-- ACTION: Add material or delete this section if it's not applicable -->
+<!--
+ACTION: Add material or delete this section if it's not applicable
+-->
 
 ## ✅ Added/updated tests?
 
@@ -67,9 +75,14 @@ Be careful not to close parent tracking issues that this PR only completes PART 
   - Or doesn't need to per the below explanation
 
 <!--
-ACTION: If tests have not been added or updated, explain why here -->
+ACTION: If tests have not been added or updated, explain why here
+-->
 
 ## [optional] What gif best describes this PR or how it makes you feel?
+
+<!--
+ACTION: Add a gif or delete this section
+-->
 
 ![alt_text](gif_link)
 
