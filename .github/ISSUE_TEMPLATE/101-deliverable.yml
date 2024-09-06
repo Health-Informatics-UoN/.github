@@ -1,5 +1,5 @@
 name: ⚠️ 🛠️ Deliverable
-description: ⚠️ For Project Maintainers: Create a Deliverable work item
+description: "⚠️ For Project Maintainers: Create a Deliverable work item"
 type: "Deliverable"
 body:
 - type: checkboxes
