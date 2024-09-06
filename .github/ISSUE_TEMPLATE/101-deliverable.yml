@@ -1,6 +1,7 @@
-name: ⚠️ 🛠️ Deliverable
+name: 🛠️ Deliverable
 description: "⚠️ For Project Maintainers: Create a Deliverable work item"
 type: "Deliverable"
+labels: ["🚦 triage"]
 body:
 - type: checkboxes
   attributes:
@@ -25,6 +26,17 @@ body:
       - [ ] Criterion B is met.
       - [ ] Tests pass.
       - [ ] Documentation added.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Tasks
+    description: A breakdown of tasks required to meet the acceptance criteria.
+    value: |
+      - [ ] Task A.
+      - [ ] Task B.
+      - [ ] Unit tests.
+      - [ ] Documentation.
   validations:
     required: true
 - type: checkboxes
