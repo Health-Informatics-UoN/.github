@@ -1,8 +1,6 @@
 name: 💡 Feature Request
 description: Request new or enhanced functionality
-title: "💡 <title>"
-labels: ["💡 feature request", "🚦 needs triage"]
-type: "enhancement"
+type: "Feature"
 body:
 - type: checkboxes
   attributes:
