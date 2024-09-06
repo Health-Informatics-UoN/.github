@@ -1,6 +1,7 @@
 name: 🐛 Bug
 description: File a bug/issue
 type: "Bug"
+labels: ["🚦 triage"]
 body:
 - type: checkboxes
   attributes:
