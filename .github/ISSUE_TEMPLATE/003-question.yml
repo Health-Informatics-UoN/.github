@@ -1,5 +1,6 @@
-name: ⛔️ ❓ Question
-description: Ask a question
+name: ❓ Question
+description: ⛔️ Avoid using if possible! Ask a question
+labels: ["🚦 triage"]
 body:
 - type: markdown
   attributes:
