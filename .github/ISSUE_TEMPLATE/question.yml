@@ -1,7 +1,6 @@
 name: ⛔️ ❓ Question
 description: Ask a question
 title: "❓ <title>"
-labels: ["❓ question", "🚦 needs triage"]
 body:
 - type: markdown
   attributes:
