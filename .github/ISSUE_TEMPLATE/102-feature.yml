@@ -1,5 +1,5 @@
 name: ⚠️ ✨ Feature
-description: ⚠️ For Project Maintainers: Create a Feature work item
+description: "⚠️ For Project Maintainers: Create a Feature work item"
 type: "Feature"
 body:
 - type: checkboxes
