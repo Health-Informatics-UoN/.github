@@ -1,6 +1,7 @@
 name: 💡 Feature Request
 description: Request new or enhanced functionality
 type: "Feature"
+labels: ["🚦 triage"]
 body:
 - type: checkboxes
   attributes:
