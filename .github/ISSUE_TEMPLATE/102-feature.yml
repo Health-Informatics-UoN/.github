@@ -1,6 +1,7 @@
-name: ⚠️ ✨ Feature
+name: ✨ Feature
 description: "⚠️ For Project Maintainers: Create a Feature work item"
 type: "Feature"
+labels: ["🚦 triage"]
 body:
 - type: checkboxes
   attributes:
