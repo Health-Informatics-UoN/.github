@@ -1,5 +1,5 @@
-name: 💡 Deliverable
-description: A deliverable work item for planning
+name: ⚠️ 🛠️ Deliverable
+description: ⚠️ For Project Maintainers: Create a Deliverable work item
 type: "Deliverable"
 body:
 - type: checkboxes
