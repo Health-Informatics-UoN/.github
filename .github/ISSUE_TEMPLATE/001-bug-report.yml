@@ -1,6 +1,6 @@
 name: 🐛 Bug
 description: File a bug/issue
-title: "🐛 <title>"
+title: "My Bug Report"
 type: "Bug"
 body:
 - type: checkboxes
