@@ -18,14 +18,33 @@ We are transforming health research with cutting-edge digital technology and dat
 
 [Website](https://carrot.ac.uk/)
 
-| Product          | License | Repository | Releases | Tests | Language | Containers | Documentation | Roadmap |
-|------------------|---------|------------|----------|-------|----------|------------|---------------|---------|
-| Carrot Mapper    | [![MIT License][license-badge]][carrot-mapper-repo] | [![Carrot Mapper Repo][github-badge]][carrot-mapper-repo] | [![Carrot Mapper Releases][carrot-mapper-releases-badge]][carrot-mapper-releases] | [![Carrot Mapper Tests][carrot-mapper-tests-badge]][carrot-mapper-tests] | ![Python][python-badge] | [![Carrot Mapper Containers][docker-badge]][carrot-mapper-containers] | [![Carrot Mapper Docs][docs-badge]][carrot-mapper-docs] | [![Carrot Mapper Roadmap][roadmap-badge]][carrot-roadmap] |
-| Carrot Transform    | [![MIT License][license-badge]][carrot-Transform-repo] | [![Carrot Transform Repo][github-badge]][carrot-Transform-repo] | [![Carrot Transform Releases][carrot-Transform-releases-badge]][carrot-Transform-releases] | [![Carrot Transform Tests][carrot-Transform-tests-badge]][carrot-Transform-tests] | ![Python][python-badge] | | [![Carrot Transform Docs][docs-badge]][carrot-Transform-docs] | [![Carrot Transform Roadmap][roadmap-badge]][carrot-roadmap] |
+### Carrot Mapper
 
+Carrot Mapper is a tool for mapping health data to the OMOP common data model, in a secure way enabling collaboration and reusability.
+
+[![MIT License][license-badge]][carrot-mapper-repo]
+[![Carrot Mapper Repo][github-badge]][carrot-mapper-repo]
+[![Carrot Mapper Releases][carrot-mapper-releases-badge]][carrot-mapper-releases]
+[![Carrot Mapper Tests][carrot-mapper-tests-badge]][carrot-mapper-tests]
+![Python][python-badge]
+[![Carrot Mapper Containers][docker-badge]][carrot-mapper-containers]
+[![Carrot Mapper Docs][docs-badge]][carrot-mapper-docs]
+[![Carrot Mapper Roadmap][roadmap-badge]][carrot-roadmap]
+
+### Carrot Transform
+
+Carrot Transform is a tool for executing mappings to transform health data to the OMOP common data model.
+
+[![MIT License][license-badge]][carrot-Transform-repo]
+[![Carrot Transform Repo][github-badge]][carrot-Transform-repo]
+[![Carrot Transform Releases][carrot-Transform-releases-badge]][carrot-Transform-releases]
+[![Carrot Transform Tests][carrot-Transform-tests-badge]][carrot-Transform-tests]
+![Python][python-badge]
+[![Carrot Transform Docs][docs-badge]][carrot-Transform-docs]
+[![Carrot Transform Roadmap][roadmap-badge]][carrot-roadmap]
 
 [carrot-mapper-repo]: https://github.com/Health-Informatics-UoN/carrot-mapper
-[carrot-mapper-docs]: https://carrot.ac.uk/docs/
+[carrot-mapper-docs]: https://carrot.ac.uk/mapper/
 [carrot-mapper-containers]: https://github.com/orgs/Health-Informatics-UoN/packages?tab=packages&q=carrot
 [carrot-mapper-releases]: https://github.com/Health-Informatics-UoN/carrot-mapper/releases
 [carrot-mapper-tests]: https://github.com/Health-Informatics-UoN/Carrot-Mapper/actions/workflows/test.yml
@@ -34,7 +53,7 @@ We are transforming health research with cutting-edge digital technology and dat
 [carrot-roadmap]: https://github.com/orgs/Health-Informatics-UoN/projects/18
 
 [carrot-transform-repo]: https://github.com/Health-Informatics-UoN/carrot-transform
-[carrot-transform-docs]: https://carrot.ac.uk/docs/
+[carrot-transform-docs]: https://carrot.ac.uk/transform/
 [carrot-transform-releases]: https://github.com/Health-Informatics-UoN/carrot-transform/releases
 [carrot-transform-tests]: https://github.com/Health-Informatics-UoN/carrot-transform/actions/workflows/pypi.publish.yml
 [carrot-transform-releases-badge]: https://img.shields.io/github/v/tag/Health-Informatics-UoN/carrot-transform
@@ -52,11 +71,42 @@ We are transforming health research with cutting-edge digital technology and dat
 
 [Website][bunny-docs]
 
-| Product          | License | Repository | Releases | Tests | Language | Containers | Documentation | Roadmap |
-|------------------|---------|------------|----------|-------|----------|------------|---------------|---------|
-| Bunny    | [![MIT License][license-badge]][bunny-repo] | [![Bunny Repo][github-badge]][bunny-repo] | [![Bunny Releases][bunny-releases-badge]][bunny-releases] | [![Bunny Tests][bunny-tests-badge]][bunny-tests] | ![Python][python-badge] | [![Bunny Docker Images][docker-badge]][bunny-containers] | [![Bunny Docs][docs-badge]][bunny-docs] | [![Bunny Roadmap][roadmap-badge]][hutch-roadmap] |
-| Relay    | [![MIT License][license-badge]][relay-repo] | [![Relay Repo][github-badge]][relay-repo] | [![Relay Releases][relay-releases-badge]][relay-releases] | [![Relay Tests][relay-tests-badge]][relay-tests] | ![.NET][dotnet-badge] | [![Relay Docker Images][docker-badge]][relay-containers] | [![Relay Docs][docs-badge]][relay-docs] | [![Relay Roadmap][roadmap-badge]][hutch-roadmap] |
-| Hutch-TREFX    | [![MIT License][license-badge]][trefx-repo] | [![Trefx Repo][github-badge]][trefx-repo] | [![Trefx Releases][trefx-releases-badge]][trefx-releases] | [![Trefx Tests][trefx-tests-badge]][trefx-tests] | ![.NET][dotnet-badge] | | [![Trefx Docs][docs-badge]][trefx-docs] | |
+### Bunny
+
+A Cohort Discovery Task Resolver.
+
+[![MIT License][license-badge]][bunny-repo]
+[![Bunny Repo][github-badge]][bunny-repo]
+[![Bunny Releases][bunny-releases-badge]][bunny-releases]
+[![Bunny Tests][bunny-tests-badge]][bunny-tests]
+![Python][python-badge]
+[![Bunny Docker Images][docker-badge]][bunny-containers]
+[![Bunny Docs][docs-badge]][bunny-docs]
+[![Bunny Roadmap][roadmap-badge]][hutch-roadmap]
+
+### Relay
+
+A Federated Proxy for a Cohort Discovery Task API.
+
+[![MIT License][license-badge]][relay-repo]
+[![Relay Repo][github-badge]][relay-repo]
+[![Relay Releases][relay-releases-badge]][relay-releases]
+[![Relay Tests][relay-tests-badge]][relay-tests]
+![.NET][dotnet-badge]
+[![Relay Docker Images][docker-badge]][relay-containers]
+[![Relay Docs][docs-badge]][relay-docs]
+[![Relay Roadmap][roadmap-badge]][hutch-roadmap]
+
+### Hutch-TREFX
+
+Hutch-TREFX is an Executing Agent implementation that accepts jobs from a TRE Agent, executes them and records outputs and provenance, submitting the results to be approved for egress.
+
+[![MIT License][license-badge]][trefx-repo]
+[![Trefx Repo][github-badge]][trefx-repo]
+[![Trefx Releases][trefx-releases-badge]][trefx-releases]
+[![Trefx Tests][trefx-tests-badge]][trefx-tests]
+![.NET][dotnet-badge]
+[![Trefx Docs][docs-badge]][trefx-docs]
 
 [bunny-repo]: https://github.com/Health-Informatics-UoN/hutch-bunny
 [bunny-docs]: https://health-informatics-uon.github.io/hutch/bunny
@@ -94,11 +144,14 @@ We are transforming health research with cutting-edge digital technology and dat
 Lettuce uses an LLM for efficient translation and transformation into OMOP vocabulary.
 </em>
 
+
 [Website][lettuce-docs]
 
-| Product          | License | Repository | Releases | Language | Documentation |
-|------------------|---------|------------|----------|----------|------------|
-| Lettuce    | [![MIT License][license-badge]][lettuce-repo] | [![Lettuce Repo][github-badge]][lettuce-repo] | [![Lettuce Releases][lettuce-releases-badge]][lettuce-releases]  | ![Python][python-badge] | [![Lettuce Docs][docs-badge]][lettuce-docs]
+[![MIT License][license-badge]][lettuce-repo]
+[![Lettuce Repo][github-badge]][lettuce-repo]
+[![Lettuce Releases][lettuce-releases-badge]][lettuce-releases]
+![Python][python-badge]
+[![Lettuce Docs][docs-badge]][lettuce-docs]
 
 
 [lettuce-repo]: https://github.com/Health-Informatics-UoN/lettuce
