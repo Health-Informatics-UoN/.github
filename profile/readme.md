@@ -18,7 +18,7 @@ We are transforming health research with cutting-edge digital technology and dat
 
 [Website](https://carrot.ac.uk/)
 
-### Carrot Mapper
+### [Carrot Mapper][carrot-mapper-repo]
 
 Carrot Mapper is a tool for mapping health data to the OMOP common data model, in a secure way enabling collaboration and reusability.
 
@@ -31,7 +31,7 @@ Carrot Mapper is a tool for mapping health data to the OMOP common data model, i
 [![Carrot Mapper Docs][docs-badge]][carrot-mapper-docs]
 [![Carrot Mapper Roadmap][roadmap-badge]][carrot-roadmap]
 
-### Carrot Transform
+### [Carrot Transform][carrot-transform-repo]
 
 Carrot Transform is a tool for executing mappings to transform health data to the OMOP common data model.
 
@@ -71,7 +71,7 @@ Carrot Transform is a tool for executing mappings to transform health data to th
 
 [Website][bunny-docs]
 
-### Bunny
+### [Bunny][bunny-repo]
 
 A Cohort Discovery Task Resolver.
 
@@ -84,7 +84,7 @@ A Cohort Discovery Task Resolver.
 [![Bunny Docs][docs-badge]][bunny-docs]
 [![Bunny Roadmap][roadmap-badge]][hutch-roadmap]
 
-### Relay
+### [Relay][relay-repo]
 
 A Federated Proxy for a Cohort Discovery Task API.
 
@@ -97,7 +97,7 @@ A Federated Proxy for a Cohort Discovery Task API.
 [![Relay Docs][docs-badge]][relay-docs]
 [![Relay Roadmap][roadmap-badge]][hutch-roadmap]
 
-### Hutch-TREFX
+### [Hutch-TREFX][trefx-repo]
 
 Hutch-TREFX is an Executing Agent implementation that accepts jobs from a TRE Agent, executes them and records outputs and provenance, submitting the results to be approved for egress.
 
@@ -160,9 +160,9 @@ Lettuce uses an LLM for efficient translation and transformation into OMOP vocab
 [lettuce-releases-badge]: https://img.shields.io/github/v/tag/Health-Informatics-UoN/lettuce
 
 [license-badge]: https://img.shields.io/github/license/health-informatics-uon/hutch-bunny.svg
-[dotnet-badge]: https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white
-[python-badge]: https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
-[docker-badge]: https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white
-[docs-badge]: https://img.shields.io/badge/docs-black?style=flat&labelColor=%23222
-[roadmap-badge]: https://img.shields.io/badge/roadmap-blue?style=flat&labelColor=%230066cc
-[github-badge]: https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white
+[dotnet-badge]: https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white
+[python-badge]: https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+[docker-badge]: https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white
+[docs-badge]: https://img.shields.io/badge/docs-black?style=flat-square&labelColor=%23222
+[roadmap-badge]: https://img.shields.io/badge/roadmap-blue?style=flat-square&labelColor=%230066cc
+[github-badge]: https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white
