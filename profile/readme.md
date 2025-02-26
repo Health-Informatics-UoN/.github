@@ -44,16 +44,16 @@ Carrot Transform is a tool for executing mappings to transform health data to th
 [![Carrot Transform Roadmap][roadmap-badge]][carrot-roadmap]
 
 [carrot-mapper-repo]: https://github.com/Health-Informatics-UoN/carrot-mapper
-[carrot-mapper-docs]: https://carrot.ac.uk/mapper/
+[carrot-mapper-docs]: https://carrot.ac.uk/mapper
 [carrot-mapper-containers]: https://github.com/orgs/Health-Informatics-UoN/packages?tab=packages&q=carrot
 [carrot-mapper-releases]: https://github.com/Health-Informatics-UoN/carrot-mapper/releases
 [carrot-mapper-tests]: https://github.com/Health-Informatics-UoN/Carrot-Mapper/actions/workflows/test.yml
 [carrot-mapper-releases-badge]: https://img.shields.io/github/v/tag/Health-Informatics-UoN/carrot-mapper
 [carrot-mapper-tests-badge]: https://github.com/Health-Informatics-UoN/Carrot-Mapper/actions/workflows/test.yml/badge.svg
-[carrot-roadmap]: https://github.com/orgs/Health-Informatics-UoN/projects/18
+[carrot-roadmap]: https://github.com/orgs/Health-Informatics-UoN/projects/13/views/19
 
 [carrot-transform-repo]: https://github.com/Health-Informatics-UoN/carrot-transform
-[carrot-transform-docs]: https://carrot.ac.uk/transform/
+[carrot-transform-docs]: https://carrot.ac.uk/transform
 [carrot-transform-releases]: https://github.com/Health-Informatics-UoN/carrot-transform/releases
 [carrot-transform-tests]: https://github.com/Health-Informatics-UoN/carrot-transform/actions/workflows/pypi.publish.yml
 [carrot-transform-releases-badge]: https://img.shields.io/github/v/tag/Health-Informatics-UoN/carrot-transform
@@ -115,7 +115,7 @@ Hutch-TREFX is an Executing Agent implementation that accepts jobs from a TRE Ag
 [bunny-tests]: https://github.com/Health-Informatics-UoN/hutch-bunny/actions/workflows/check.run-tests.yml 
 [bunny-releases-badge]: https://img.shields.io/github/v/tag/Health-Informatics-UoN/hutch-bunny
 [bunny-tests-badge]: https://github.com/Health-Informatics-UoN/hutch-bunny/actions/workflows/check.run-tests.yml/badge.svg
-[hutch-roadmap]: https://github.com/orgs/Health-Informatics-UoN/projects/22/views/1
+[hutch-roadmap]: https://github.com/orgs/Health-Informatics-UoN/projects/1/views/15 
 
 [relay-repo]: https://github.com/Health-Informatics-UoN/hutch-relay
 [relay-docs]: https://health-informatics-uon.github.io/hutch/relay
