@@ -37,5 +37,5 @@ body:
           - Add to Projects and set metadata
           - Add to milestones
       options:
-        - label: "Ready to create this feature"
+        - label: "Ready to create this feature?"
           required: true

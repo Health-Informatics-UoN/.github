@@ -23,5 +23,5 @@ body:
         Don't forget:
           - Add to Projects and set metadata
       options:
-        - label: "Ready to create this epic"
+        - label: "Ready to create this epic?"
           required: true
