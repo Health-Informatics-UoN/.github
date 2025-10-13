@@ -7,7 +7,7 @@ We are transforming health research with cutting-edge digital technology and dat
 
 <p align="left">
   <picture>
-    <img alt="Federated Research Logo" src="./logos/fedres.svg" width="280"/>
+    <img alt="Federated Research Logo" src="https://raw.githubusercontent.com/Health-Informatics-UoN/.github/refs/heads/main/logos/fedres.svg" width="280"/>
   </picture>
 </p>
 
@@ -23,7 +23,7 @@ Federated Research is driven to transform how researchers securely access and an
 
 <p align="left">
   <picture>
-    <img alt="Bunny Logo" src="./logos/bunny.svg" width="280"/>
+    <img alt="Bunny Logo" src="https://raw.githubusercontent.com/Health-Informatics-UoN/.github/refs/heads/main/logos/bunny.svg" width="280"/>
   </picture>
 </p>
 
@@ -42,7 +42,7 @@ Bunny is an application for fetching Cohort Discovery queries and resolving them
 
 <p align="left">
   <picture>
-    <img alt="Relay Logo" src="./logos/relay.svg" width="280"/>
+    <img alt="Relay Logo" src="https://raw.githubusercontent.com/Health-Informatics-UoN/.github/refs/heads/main/logos/relay.svg" width="280"/>
   </picture>
 </p>
 
@@ -79,7 +79,7 @@ Relay is an application for enabling federated networks in Cohort Discovery, tha
 <p align="left">
   <a href="https://carrot.ac.uk/" target="_blank">
   <picture>
-    <img alt="Carrot Logo" src="./logos/carrot.png" width="280"/>
+    <img alt="Carrot Logo" src="https://raw.githubusercontent.com/Health-Informatics-UoN/.github/refs/heads/main/logos/carrot.png" width="280"/>
   </picture>
   </a>
 </p>
@@ -135,7 +135,7 @@ Carrot Transform is a tool for executing mappings to transform health data to th
 
 <p>
   <picture>
-    <img alt="Lettuce Logo" src="./logos/lettuce.svg" width="280"/>
+    <img alt="Lettuce Logo" src="https://raw.githubusercontent.com/Health-Informatics-UoN/.github/refs/heads/main/logos/lettuce.svg" width="280"/>
   </picture>
 </p>
 
