@@ -6,15 +6,85 @@ We are transforming health research with cutting-edge digital technology and dat
 ## Tools
 
 <p align="left">
+  <picture>
+    <img alt="Federated Research Logo" src="./logos/fedres.svg" width="280"/>
+  </picture>
+</p>
+
+Federated Research is driven to transform how researchers securely access and analyse data across multiple locations. Achieved by promoting independent organisations to work together through agreed-upon standards, protocols, principles, while keeping control over their own data, services, or platforms.
+
+[![Federated Research Repo][github-badge]][fedres-repo]
+[![Federated Research Docs][docs-badge]][fedres-docs]
+
+[fedres-repo]: https://github.com/federated-research/
+[fedres-docs]: https://docs.federated-analytics.ac.uk/
+
+---
+
+<p align="left">
+  <picture>
+    <img alt="Bunny Logo" src="./logos/bunny.svg" width="280"/>
+  </picture>
+</p>
+
+[Website][bunny-docs]
+
+Bunny is an application for fetching Cohort Discovery queries and resolving them against an OMOP database.
+
+[![MIT License][license-badge]][bunny-repo]
+[![Bunny Repo][github-badge]][bunny-repo]
+[![Bunny Releases][bunny-releases-badge]][bunny-releases]
+[![Bunny Tests][bunny-tests-badge]][bunny-tests]
+![Python][python-badge]
+[![Bunny Docker Images][docker-badge]][bunny-containers]
+[![Bunny Docs][docs-badge]][bunny-docs]
+[![Bunny Roadmap][roadmap-badge]][hutch-roadmap]
+
+<p align="left">
+  <picture>
+    <img alt="Relay Logo" src="./logos/relay.svg" width="280"/>
+  </picture>
+</p>
+
+Relay is an application for enabling federated networks in Cohort Discovery, that implements the [GA4GH Beacon API](https://www.ga4gh.org/product/beacon-api/).
+
+[![MIT License][license-badge]][relay-repo]
+[![Relay Repo][github-badge]][relay-repo]
+[![Relay Releases][relay-releases-badge]][relay-releases]
+[![Relay Tests][relay-tests-badge]][relay-tests]
+![.NET][dotnet-badge]
+[![Relay Docker Images][docker-badge]][relay-containers]
+[![Relay Docs][docs-badge]][relay-docs]
+[![Relay Roadmap][roadmap-badge]][hutch-roadmap]
+
+[bunny-repo]: https://github.com/Health-Informatics-UoN/hutch-bunny
+[bunny-docs]: https://health-informatics-uon.github.io/hutch/bunny
+[bunny-containers]: https://github.com/Health-Informatics-UoN/hutch-bunny/pkgs/container/hutch%2Fbunny
+[bunny-releases]: https://github.com/Health-Informatics-UoN/hutch-bunny/releases
+[bunny-tests]: https://github.com/Health-Informatics-UoN/hutch-bunny/actions/workflows/check.run-tests.yml 
+[bunny-releases-badge]: https://img.shields.io/github/v/tag/Health-Informatics-UoN/hutch-bunny
+[bunny-tests-badge]: https://github.com/Health-Informatics-UoN/hutch-bunny/actions/workflows/check.run-tests.yml/badge.svg
+[hutch-roadmap]: https://github.com/orgs/Health-Informatics-UoN/projects/1/views/15 
+
+[relay-repo]: https://github.com/Health-Informatics-UoN/hutch-relay
+[relay-docs]: https://health-informatics-uon.github.io/hutch/relay
+[relay-containers]: https://github.com/Health-Informatics-UoN/hutch-relay/pkgs/container/hutch%2Frelay
+[relay-releases]: https://github.com/Health-Informatics-UoN/hutch-relay/releases
+[relay-tests]: https://github.com/Health-Informatics-UoN/hutch-relay/actions/workflows/check.relay.build-test.yml
+[relay-releases-badge]: https://img.shields.io/github/v/tag/Health-Informatics-UoN/hutch-relay
+[relay-tests-badge]: https://github.com/Health-Informatics-UoN/hutch-relay/actions/workflows/check.relay.build-test.yml/badge.svg
+
+---
+
+<p align="left">
   <a href="https://carrot.ac.uk/" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Health-Informatics-UoN/carrot/main/images/logo-primary.png">
-    <img alt="Carrot Logo" src="https://raw.githubusercontent.com/Health-Informatics-UoN/carrot/main/images/logo-primary.png" width="280"/>
+    <img alt="Carrot Logo" src="./logos/carrot.png" width="280"/>
   </picture>
   </a>
 </p>
 
-<em>Carrot is an application stack for mapping and transforming health data to the OMOP common data model, in a secure way enabling collaboration and reusability.</em>
+<em>Carrot is an application stack for mapping and transforming health data to the OMOP common data model, in a secure way that enables collaboration and reusability.</em>
 
 [Website](https://carrot.ac.uk/)
 
@@ -61,82 +131,11 @@ Carrot Transform is a tool for executing mappings to transform health data to th
 
 ---
 
-<p align="left">
-  <picture>
-    <img alt="Hutch Logo" src="https://raw.githubusercontent.com/Health-Informatics-UoN/hutch/refs/heads/main/website/public/images/hutch-logo-colour.svg" width="280"/>
-  </picture>
-</p>
-
-<em>Hutch is part of an application stack for Federated Activities, such as Analytics, Data Discovery or Machine Learning.</em>
-
-[Website][bunny-docs]
-
-### [Bunny][bunny-repo]
-
-A Cohort Discovery Task Resolver.
-
-[![MIT License][license-badge]][bunny-repo]
-[![Bunny Repo][github-badge]][bunny-repo]
-[![Bunny Releases][bunny-releases-badge]][bunny-releases]
-[![Bunny Tests][bunny-tests-badge]][bunny-tests]
-![Python][python-badge]
-[![Bunny Docker Images][docker-badge]][bunny-containers]
-[![Bunny Docs][docs-badge]][bunny-docs]
-[![Bunny Roadmap][roadmap-badge]][hutch-roadmap]
-
-### [Relay][relay-repo]
-
-A Federated Proxy for a Cohort Discovery Task API.
-
-[![MIT License][license-badge]][relay-repo]
-[![Relay Repo][github-badge]][relay-repo]
-[![Relay Releases][relay-releases-badge]][relay-releases]
-[![Relay Tests][relay-tests-badge]][relay-tests]
-![.NET][dotnet-badge]
-[![Relay Docker Images][docker-badge]][relay-containers]
-[![Relay Docs][docs-badge]][relay-docs]
-[![Relay Roadmap][roadmap-badge]][hutch-roadmap]
-
-### [Hutch-TREFX][trefx-repo]
-
-Hutch-TREFX is an Executing Agent implementation that accepts jobs from a TRE Agent, executes them and records outputs and provenance, submitting the results to be approved for egress.
-
-[![MIT License][license-badge]][trefx-repo]
-[![Trefx Repo][github-badge]][trefx-repo]
-[![Trefx Releases][trefx-releases-badge]][trefx-releases]
-[![Trefx Tests][trefx-tests-badge]][trefx-tests]
-![.NET][dotnet-badge]
-[![Trefx Docs][docs-badge]][trefx-docs]
-
-[bunny-repo]: https://github.com/Health-Informatics-UoN/hutch-bunny
-[bunny-docs]: https://health-informatics-uon.github.io/hutch/bunny
-[bunny-containers]: https://github.com/Health-Informatics-UoN/hutch-bunny/pkgs/container/hutch%2Fbunny
-[bunny-releases]: https://github.com/Health-Informatics-UoN/hutch-bunny/releases
-[bunny-tests]: https://github.com/Health-Informatics-UoN/hutch-bunny/actions/workflows/check.run-tests.yml 
-[bunny-releases-badge]: https://img.shields.io/github/v/tag/Health-Informatics-UoN/hutch-bunny
-[bunny-tests-badge]: https://github.com/Health-Informatics-UoN/hutch-bunny/actions/workflows/check.run-tests.yml/badge.svg
-[hutch-roadmap]: https://github.com/orgs/Health-Informatics-UoN/projects/1/views/15 
-
-[relay-repo]: https://github.com/Health-Informatics-UoN/hutch-relay
-[relay-docs]: https://health-informatics-uon.github.io/hutch/relay
-[relay-containers]: https://github.com/Health-Informatics-UoN/hutch-relay/pkgs/container/hutch%2Frelay
-[relay-releases]: https://github.com/Health-Informatics-UoN/hutch-relay/releases
-[relay-tests]: https://github.com/Health-Informatics-UoN/hutch-relay/actions/workflows/check.relay.build-test.yml
-[relay-releases-badge]: https://img.shields.io/github/v/tag/Health-Informatics-UoN/hutch-relay
-[relay-tests-badge]: https://github.com/Health-Informatics-UoN/hutch-relay/actions/workflows/check.relay.build-test.yml/badge.svg
-
-[trefx-repo]: https://github.com/Health-Informatics-UoN/hutch-trefx
-[trefx-docs]: https://health-informatics-uon.github.io/hutch-trefx/
-[trefx-releases]: https://github.com/Health-Informatics-UoN/hutch-trefx/releases
-[trefx-releases-badge]: https://img.shields.io/github/v/tag/Health-Informatics-UoN/hutch-trefx
-[trefx-tests]: https://github.com/Health-Informatics-UoN/hutch-trefx/actions/workflows/build.HutchAgent.yml
-[trefx-tests-badge]: https://github.com/Health-Informatics-UoN/hutch-trefx/actions/workflows/build.HutchAgent.yml/badge.svg
-
 ---
 
 <p>
   <picture>
-    <img alt="Lettuce Logo" src="https://health-informatics-uon.github.io/lettuce/_next/static/media/lettuce-logo.945352bb.svg" width="280"/>
+    <img alt="Lettuce Logo" src="./logos/lettuce.svg" width="280"/>
   </picture>
 </p>
 
